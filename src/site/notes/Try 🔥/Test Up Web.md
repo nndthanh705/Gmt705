@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/try/test-up-web/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"dg-publish":true,"dg-home":true,"permalink":"/try/test-up-web/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 Ok chưa ???
