@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/try/1000-lan-test/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"dg-publish":true,"dg-home":true,"permalink":"/try/1000-lan-test/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 # WEB
